@@ -9,7 +9,7 @@ keywords = ["cryptography", "random", "rng", "no-std", "webassembly"]
 license = "Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/mobilecoinfoundation/rand"
-rust-version = "1.68"
+rust-version = "1.67"
 
 [lib]
 doctest = false
